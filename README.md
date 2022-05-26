@@ -1,2 +1,2 @@
 # FlappyCube
-Flappy Bird Clone in third person 3d.
+Flappy Bird clone in third person 3d.
